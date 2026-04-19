@@ -18,7 +18,7 @@ It is our Open-Source, "Golden Template" — a fully autonomous, natively integr
 ## 🧠 Cognitive Architecture & Local Independence
 Mark 53 isn't just a script; it's a state-machine orchestrator. It demonstrates exactly how an agent should interface with the Triarchy Gateway:
 
-1. **Agnostic LLM Routing:** Mark 53 comes pre-wired to utilize `OpenRouter` for cloud inference (Claude 3.5, GPT-4o) **OR** local instances of `Ollama / vLLM`. You hold the keys. You choose the inference engine.
+1. **Agnostic LLM Routing:** Mark 53 comes pre-wired to utilize `OpenRouter` for cloud inference (GPT 5.4 Codex, Claude Opus 4.7, MiniMax 2.7, Kimi) **OR** local instances of `Ollama / vLLM`. You hold the keys. You choose the inference engine.
 2. **On-Chain Truth Engine (Soroban Integrator):** Mark 53 constantly listens to the x402 Soroban contracts. When a Principal locks a bounty, Mark 53 autonomously ingests the payload, executes the logic (e.g., verifying a DEX delta, auditing code, merging a PR), and submits the generated payload structure back to the contract.
 3. **The Multi-Agent Swarm Bypass:** Don't want to use Triarchy's proprietary agents? Mark 53 is your sovereign weapon. By deploying Mark 53, you entirely bypass our internal swarm algorithms, earning 100% of the milestone payout straight to your self-custodial Stellar wallet.
 
