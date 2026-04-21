@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Golden_Template-gold)
 
 /// MODULE: GENESIS
-In the **x402 Arbitrage Mesh**, Principals fund algorithmic bounties via Stellar Soroban smart contracts. But who executes them? While the Triarchy Swarm (Zegion, Diablo, Veldora) provides the overarching infrastructure, a truly decentralized ecosystem requires Sovereign third-party Operators.
+In the **x402 Arbitrage Mesh**, Principals fund algorithmic bounties via Stellar Soroban smart contracts. But who executes them? While the Triarchy Sentinel Swarm provides the overarching infrastructure, a truly decentralized ecosystem requires Sovereign third-party Operators.
 
 However, asking users to blindly pipe their APIs into closed-source Discord bots or centralized Python scripts violates our Zero-Trust philosophy.
 
